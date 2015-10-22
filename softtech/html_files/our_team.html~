@@ -1,0 +1,105 @@
+<!--our team html doc-->
+<!--written by akhil -->
+
+
+<html>
+
+<head>
+
+<title>SOFTTECH-Team</title>
+<link rel="stylesheet" type="text/css" href="../static/css/styles.css">
+<link href="http://fonts.googleapis.com/css?family=Josefin Sans" rel="stylesheet" type="text/css" />
+<div id="fir">
+<img src="../static/images/allpages_1.jpg" alt="SOFTTECH" width="150" height="80" Hspace="40">SOFT TECH</div>
+
+
+</head>
+
+<body >
+
+
+<hr noshade size=5>
+<div id="navbar">
+
+	    <a href="home.html">Home</a>
+	    <a href="about_us.html">About Us</a>
+	    <a href="product_catalogue.html">Product Catalogue </a>
+	    <div id="selected"><a href="our_team.html"> Our Team</a></div>
+	    <a href="careers.html">Careers</a>
+	    <a href="contact_us.html" >Contact Us</a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<hr noshade size=5>
+
+<p class="margin"><b>SOFT TECH</b> : Empowering Transformation</p>
+
+
+
+<div align='left' style="font-size:2em;">
+	<b>CEO and FOUNDER: Akhil.</b><br><br>
+</div>
+<img float=left src="../static/images/our_team_1.jpg" alt="SOFTTECH"  width="150" height="100">
+<p style="font-size:30px;">
+Akhil is responsible for the company's global leadership and business execution, and for driving the company's market leadership. His two decades of experience in executive management and technology has given the company to turn itself as a leading sellers of thi clients.
+</p>
+				<hr size=3 width=950 align=left>   
+
+
+
+<div align='right' style="font-size:2em;">
+	<b>Executive Chairman: Hatake.</b><br><br>
+	<img float=right src="../static/images/our_team_2.jpg" alt="SOFTTECH"  width="150" height="100">
+</div>
+<p style="font-size:30px;">
+Hatake has helped grow the company from a small dealing business to a famous company which is being voted as the best sellers . Hatake has more than 5yrs of experience in dealing of thin clients and managing them.
+</p>
+				<hr size=3 width=950 align=right>   
+
+
+<div align='left' style="font-size:2em;">
+	<b>Senior Vice President of Customer Success: Sherlock.</b><br><br>
+</div>
+<img float="left" src="../static/images/our_team_3.jpg" alt="SOFTTECH"  width="150" height="100">
+<p style="font-size:30px;">
+Sherlock has played an important role in devoleping the relationships between the customers and the major manufacturing companies. He has been working in the company since its start and been the oneof the very important persons of the company.
+</p>
+				<hr size=3 width=950 align=left>   
+
+
+<div align='right'  style="font-size:2em;">
+	<b>Vice President of Client Services : Bony.</b><br><br>
+	<img float="right" src="../static/images/our_team_4.jpg" alt="SOFTTECH"  width="150" height="125">
+</div>
+<p style="font-size:30px;">
+Bony has responsibility for marketing and marketing technology services provided to SOFT TECH customers and delivered through the company's account management, strategic consulting, full service, and technical consulting teams.
+</p>  
+
+
+
+
+
+
+<hr>
+<div id="adv">
+				<ul>
+					<a href="http://twitter.com" target="_blank"><img src="../static/images/allpages_2.png" alt="" width="60" height="62" /></a>
+					<a href="https://www.facebook.com/felicity.iiith" target="_blank"><img src="../static/images/allpages_3.png" alt="" height="60" width="62" /></a>
+                    			<a href="http://feeds.feedburner.com/" target="_blank"><img src="../static/images/allpages_4.jpg" alt="" width="60" height="62" /></a>
+					<a href="http://www.linkedin.com" target="_blank"><img src="../static/images/allpages_5.jpg" alt="" width="60" height="62" /></a>
+					<a href="http://www.gmail.com" target="_blank"><img src="../static/images/allpages_6.jpg" alt="" width="60" height="62" /></a>
+                             </ul>
+			</div>
+
+
+<div id="footer" style="clear:both;text-align:center;font-size:0.95em;">				
+While using this site, you agree to have read and accepted our terms of use and privacy policy. All Rights Reserved © <b>Akhil singh.</b>
+<br><br>
+</div>
+
+</body>
+</html>

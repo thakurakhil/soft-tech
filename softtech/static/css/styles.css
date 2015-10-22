@@ -1,0 +1,184 @@
+html *
+{
+   color:#FFFFFF !important;
+   font-family: 'Josefin Sans', serif;
+ }
+#fir
+	{
+	text-align:center;
+	color:black;
+	font-family: 'Josefin Sans', serif;	
+	font-size:4em;
+	}
+
+
+#tile1
+	{
+	text-align:center;
+	font-size:1.46em;
+	}
+
+
+body 
+	{ 
+	background: url('../images/allpages_0.jpg') no-repeat center center fixed;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;                                      
+	-o-background-size: cover;
+	background-size: cover;
+	} 
+
+
+#navbar 
+	a {  font-family: 'Josefin Sans', serif;color:black;padding:12px;width:185px;margin-bottom:5px;margin-top:5px;font-weight:bold; float:left; }
+#navbar
+	a:link {color:white;}
+#navbar
+	a:hover {color:white; background-color:	#696969;opacity:0.4;}
+#navbar
+	a:active { color:white; background-color:#696969 ; }                  
+#selected 
+	a { color: white;background-color:#696969;}
+
+
+
+p.margin
+	{
+	margin-top:50px;
+	margin-bottom:10px;
+	margin-right:100px;
+	margin-left:350px;
+	font-size:2em;
+	}
+
+
+
+.carousel
+	{
+        overflow:hidden;
+    	width:100%;
+	}
+.panes
+	{
+        list-style:none;
+    	position:relative;
+    	width:500%; /* Number of panes * 100% */
+    	overflow:hidden; /* This is used solely to clear floats, it does not add functionality. */
+        
+    	-moz-animation:carousel 30s infinite;
+    	-webkit-animation:carousel 30s infinite;
+    	animation:carousel 30s infinite;
+	}
+.panes > li
+	{
+	position:relative;
+    	float:left;
+    	width:20%; /* 100 / number of panes */
+	}
+.carousel img
+	{
+        display:block;
+    	width:40%;
+    	max-width:50%;
+    	max-height:60%;
+	}
+.carousel h2
+	{
+        font-size:1em;
+        padding:0.5em;
+    	position:absolute;
+    	right:700px;
+    	bottom:10px;                                                                 
+    	left:10px;
+    	text-align:right;
+    	color:#fff;
+    	background-color:rgba(0,0,0,0.75);
+	}
+@keyframes carousel
+	{
+	    0%    { left:0; }
+	    11%   { left:0; }
+	    12.5% { left:-100%; }
+	    23.5% { left:-100%; }
+	    25%   { left:-200%; }
+	    36%   { left:-200%; }
+	    37.5% { left:-300%; }
+	    48.5% { left:-300%; }
+	    50%   { left:-400%; }
+	    61%   { left:-400%; }
+	    62.5% { left:-300%; }
+	    73.5% { left:-300%; }
+	    75%   { left:-200%; }
+	    86%   { left:-200%; }
+	    87.5% { left:-100%; }
+	    98.5% { left:-100%; }
+	    100%  { left:0; }
+	}
+
+
+p.img
+	{
+	margin-top:10px;
+	margin-right:250px;
+	margin-left:250px;
+	float:left;
+	}
+
+
+#margin2
+	{
+	margin-right:100px;
+	margin-left:150px;
+	}
+
+
+#margin1
+	{
+	margin-right:100px;
+	margin-left:450px;
+	}
+
+
+#inf
+	{
+	margin-left:350px;
+	margin-right:100px;
+	font-size:1.5em;
+	}
+
+
+#contact
+	{
+	margin-left:450px;
+	margin-right:100px;
+	font-size:1em;
+	}
+
+
+input 
+	{
+        color: #000000 !important;
+	font-size:20px;
+	}
+
+
+textarea 
+        {
+ 	color: #000000 !important;
+	}	
+
+
+button  
+	{
+	 color: #000000 !important;
+	}
+
+
+ul
+	{
+	list-style-type: none;
+	margin-right:100px;
+	margin-left:450px;
+	padding:10px;width:2000px;float:center;
+	}
+
